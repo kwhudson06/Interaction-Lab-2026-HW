@@ -1,0 +1,13 @@
+body {
+	font-family: sans-serif;
+	background: rgb(255, 0, 149);
+	color: rgb(0, 21, 255);
+    margin: 200px auto;
+    max-width: 1000px;
+}
+h1 {font-size: 100px;}
+p { font-size: 32px; font-style: italic;}
+a {
+    text-decoration:none;
+}
+.large-word {font-size: 130px;}
